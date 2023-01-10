@@ -10,7 +10,7 @@
 <b>Discipline | <b> Mining Engineering  
 :--|:--|
 <b> Lab | <b> **Mine Automation & Virtual Reality**
-<b> Experiment|     <b> **Determination of Frictional Co-efficient of Mine Airways and Experiment 8**
+<b> Experiment|     <b> **Determination of Frictional Co-efficient of Mine Airways and Experiment 6**
 
 
 
