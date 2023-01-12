@@ -1,6 +1,6 @@
-//Your JavaScript goes in here
 
-/* Lab:exp_8_Determination of Frictional Co-efficient of Mine Airways
+/* Lab:Mine Automation and Virtual Reality
+   Exp: Determination of Frictional Co-efficient of Mine Airways
 	 File name: main.js
    Author:Prakriti Dhang
 */
