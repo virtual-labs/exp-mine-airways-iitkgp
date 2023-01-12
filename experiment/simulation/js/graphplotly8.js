@@ -1,4 +1,5 @@
-/* Lab:exp_8_Determination of Frictional Co-efficient of Mine Airways
+/* Lab:Mine Automation and Virtual Reality
+   Exp: Determination of Frictional Co-efficient of Mine Airways
 	 File name: graphplotly8.js
    Author:Prakriti Dhang
 */
