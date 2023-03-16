@@ -1,1 +1,194 @@
-/* You CSS goes in here */
+
+/* Lab:Mine Automation and Virtual Reality
+   Exp: Determination of Frictional Co-efficient of Mine Airways
+	 File name: main.css
+   Author:Prakriti Dhang
+*/
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+table,th,td{
+    text-align: center;
+    font-size: medium;
+    width: 20%;
+}
+.img-container{
+    display: inline-block;
+    position: relative;
+   
+  }
+.poscol{
+    width: 100%;
+    min-width: 23px;
+    min-height: 1px;
+    }
+    
+    .poscol img{
+        max-width: 100%;
+        height: auto;
+      }
+
+    #ductimg{
+        position: relative;
+        top:0%;
+        left: 0%;
+        width:97%;        
+
+       
+    }
+
+#ductscale{
+    position: absolute;
+    top:-15%;
+    left: 15%;
+    width:83.5%;
+    height:125%;
+}
+
+#pressurebox{
+    position: absolute;
+    top:380%;
+    left:58%;
+    width:10%;
+}
+
+#plus{
+    position:absolute;
+    top:283%;
+    left:58%;
+    width:7%;
+}
+#connect1{
+    position: absolute;
+    top:15%;
+    left: 29%;
+    width:45%;
+    transform: rotate(-20deg);
+}
+#connect2{
+    position: absolute;
+    top:2%;
+    left: 67%;
+    width:33%;
+    transform: rotate(-20deg);
+}
+#connect3{
+
+    position: absolute;
+    top:342%;
+    left:47%;
+    width:25%;
+    transform: rotate(-40deg);
+   /* position: absolute;
+    top:395px;
+    left: 320px;
+    transform: rotate(-20deg);*/
+}
+#connect4{
+    position: absolute;
+    top:320%;
+    left:55%;
+    width:16%;
+    transform: rotate(10deg);
+}
+
+#scale{
+    position: absolute;
+    top: 280%;
+    left:60%;
+    width:55%;
+    height:40%;
+    transform: rotate(-55deg);
+}
+
+#myCanvas{
+    position: absolute;
+    top: 175%;
+    left:82%;
+    width:2%;
+    height:235%;
+    transform: rotate(35deg) ;
+    }
+
+#anemometerr{
+    position: absolute;
+    left: 97%;
+    bottom:-100%;
+    width:8%;
+     }
+    
+     /*User postion */
+#user{
+    position: absolute;
+    left: 99%;
+    top:100%;
+    width:10%;
+    transform: rotateY(-180deg);
+        
+     }
+
+     /*  Flow control device  1 */
+#contldevice1 {
+    position: absolute;
+    left: 0%;
+    top:350%;
+    width:13%;
+    animation: tplate1 10s linear;
+   /* margin-left: 50% !important;*/
+  }
+
+ /*  Flow control device 2 */
+#contldevice2 {
+    position: absolute;
+    left: -0.5%;
+    top:350%;
+    width:13%;
+   
+  }
+  /*  Flow control device 3 */
+#contldevice3 {
+    position: absolute;
+    left: 0%;
+    top:350%;
+    width:13.5%;
+  }
+
+  /*  Flow control device 4 */
+ #contldevice4 {
+    position: absolute;
+    left: 0%;
+    top:350%;
+    width:13%;
+   
+  }
+  @media print {
+    body {-webkit-print-color-adjust: exact !important;
+       
+        
+    }
+    }
+    @page {
+        margin: 1in; 
+      }
+      
+    @print {
+       @page :footer {
+          display: none;
+          
+           
+       }
+     
+       @page :header {
+          display: none;
+          
+       }
+   }
+   @media print {
+    #myPlot {
+      padding-right: 1cm;
+    }
+  }
