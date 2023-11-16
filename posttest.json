@@ -1,0 +1,16 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Flow of air in mine airways is rarely laminar (Re <= 2000) except for leakage through goaf or loose waste packs",
+      "answers": {
+        "a": "True",
+        "b": "False"
+        
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
