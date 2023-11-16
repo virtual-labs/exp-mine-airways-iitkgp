@@ -22,26 +22,26 @@ Enter the measuring points for the duct dimension in the fields and then click o
 <img src="images/pro_sim_2.jpg" width="40%">
 </div>
 
-After that click on the first flow control device from the left to measure the air velocity and the pressure drop.
+Click on the first flow control device from the left to measure the air velocity and the pressure drop. Click on "Anemometer Traversing".
 
 <div align="center">
 <img src="images/pro_sim_3.jpg" width="40%">
 </div>
 
 Then stop the anemometer traversing by clicking the button "stop Anemometer".
-After that add the result which is coming out to the observation table by clicking the button "Add result".
+Add the result to the observation table by clicking the button "Add result".
 
 <div align="center">
 <img src="images/pro_sim_4.jpg" width="40%">
 </div>
 
-Repeat the process for all the flow control device is given, and then plot the graph click on the button "Graph".
+Repeat for all the flow control device is given.
 
 <div align="center">
 <img src="images/pro_sim_5.jpg" width="40%">
 </div>
 
-Add the best fit line and then print by clicking the button "Print".
+After all the points are measured click on "Plot Graph" and then click on "Best Fit Graph". Print by clicking the button "Print".
 
 <div align="center">
 <img src="images/pro_sim_6.jpg" width="40%">
