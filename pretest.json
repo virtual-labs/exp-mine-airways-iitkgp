@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Unit of Air Velocity is",
+      "answers": {
+        "a": "m/s",
+        "b": "ms",
+        "c": "m",
+        "d": "None"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Coefficient of friction is",
+      "answers": {
+        "a": "f ρ ",
+        "b": "f ρ /2A",
+        "c": "f ρ / 8",
+        "d": "LP"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
